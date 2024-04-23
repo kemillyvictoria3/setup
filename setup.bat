@@ -1,9 +1,9 @@
 git config --global user.name "kemilly"
 git config --global user.email "kemillyvictoriapereirarocha@gmail.com"
 
-cd C:\Users\KEMILLYVICTORIAPEREI\
+cd c:\Users\KEMILLYVICTORIAPEREI
 
-git clone https://github.com/kemillyvictoria3/caesar-cither.git
-cd caesar-cither
+git clone https://github.com/kemillyvictoria3/caesar-cipher.git
+cd Caesar-Cipher
 
 code .
